@@ -244,8 +244,9 @@ docker-compose down
 
 ---
 
-🧑‍💻 Author
-Yoganshi Jadav — GitHub
+## 🧑‍💻 Author
+
+Yoganshi Jadav — [GitHub](https://github.com/JadavYoganshi)
 
 ---
 
