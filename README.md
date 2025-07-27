@@ -244,9 +244,8 @@ docker-compose down
 
 ---
 
-## 🧑 Author
-
-**Created by Yoganshi Jadav** – Guided by task architecture and Docker-based microservice design.
+🧑‍💻 Author
+Yoganshi Jadav — GitHub
 
 ---
 
